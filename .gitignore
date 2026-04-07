@@ -4,3 +4,4 @@ fronthold
 
 # Common ignores
 node_modules
+__pycache__
