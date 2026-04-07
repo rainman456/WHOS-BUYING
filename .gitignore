@@ -1,0 +1,6 @@
+fronthold
+.venv
+.env*.local
+
+# Common ignores
+node_modules
